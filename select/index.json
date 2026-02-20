@@ -1,0 +1,32 @@
+{
+  "version": 1,
+  "base_track": "マイガール",
+  "base_artist": "嵐",
+  "createdAt": "2026-02-20T04:53:06.398810Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "マイガール",
+      "artist": "nano.RIPE",
+      "has_synced": true,
+      "path": "select/01_マイガール_nano.RIPE.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "マイガール",
+      "artist": "Arashi",
+      "has_synced": true,
+      "path": "select/02_マイガール_Arashi.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "マイガール",
+      "artist": "嵐",
+      "has_synced": false,
+      "path": "select/pl_01_マイガール_嵐.txt"
+    }
+  ]
+}
